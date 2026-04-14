@@ -35,6 +35,11 @@ C++17/20, Rust, TypeScript, Lua. Linux day-to-day, CMake/Ninja, Node. For debugg
 [![GitHub followers](https://img.shields.io/github/followers/ds-kimi?logo=github&label=followers)](https://github.com/ds-kimi)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fds-kimi&query=public_repos&logo=github&label=public%20repos)](https://github.com/ds-kimi?tab=repositories)
 
+<p>
+  <img src="https://gh-stats.work/api?username=ds-kimi&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="GitHub stats (stars, commits, …)" height="165" />
+  <img src="https://gh-stats.work/api/top-langs/?username=ds-kimi&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" height="165" />
+</p>
+
 ## Right now
 
 Digging into C++ and TS, experimenting with faked player positions on Source Engine 2013 to fuck with cheaters, and trying to always innovate.
