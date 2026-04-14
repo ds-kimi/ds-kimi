@@ -30,20 +30,10 @@ Happy to chat about GMod server work, performance-minded tooling, or security in
 
 C++17/20, Rust, TypeScript, Lua. Linux day-to-day, CMake/Ninja, Node. For debugging and RE: gdb/LLDB, perf, IDA/x64dbg, Wireshark when it’s warranted.
 
-## GitHub stats
+## GitHub
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ds-kimi&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-kimi&layout=compact&theme=tokyonight"
-    alt="Top languages"
-    height="165"
-  />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/ds-kimi?logo=github&label=followers)](https://github.com/ds-kimi)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fds-kimi&query=public_repos&logo=github&label=public%20repos)](https://github.com/ds-kimi?tab=repositories)
 
 ## Right now
 
