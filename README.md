@@ -18,7 +18,7 @@ Happy to chat about GMod server work, performance-minded tooling, or security in
 
 **Open source**
 
-- **[Auris](https://github.com/ds-kimi/Auris)** — Live voice transcription for GMod (gm_8bit → Opus → whisper.cpp).
+- **[Auris](https://github.com/ds-kimi/Auris)** — Live voice transcription for GMod (Voice interception → Opus decoding → whisper.cpp).
 - **[dsk_timer](https://github.com/ds-kimi/dsk_timer)** — Windows tray timer for work/fun time, breaks, and simple activity stats.
 
 **Commercial**
